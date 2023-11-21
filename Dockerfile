@@ -14,12 +14,13 @@ EXPOSE 9000
 
 CMD ["npm", "run", "start"]
 
-FROM python:3.10-alpine
+FROM python:latest
 
 WORKDIR /backend
 
 COPY . .
 
-RUN pip install -r requirements.txt
+RUN pip install --upgrade pip setuptools
+RUN pip install -r backend/requirements.txt
 
 CMD ["python", "index.py"]

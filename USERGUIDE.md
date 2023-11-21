@@ -2,12 +2,7 @@
 
 ## an App made with Next.js (Frontend), Python (Backend), and MySQL (Database)
 
-## Table of Contents
-
-1. [Getting Started](#getting-started)
-2. [Interacting with the App](#interacting-with-the-app)
-
-## 1. Getting Started <a name="getting-started"></a>
+## Getting Started
 
 ### 1.1. System Requirements
 
@@ -52,5 +47,3 @@ Follow these steps to install and run the application:
 #### Database Configuration (MySQL):
 
 1. At this point it is only necessary to ensure that the database server is running through the graphical interface.
-
-## 2. Navigating the Interface <a name="navigating-the-interface"></a>

@@ -17,6 +17,6 @@ services:
   mysql:
     image: mysql:latest
     MYSQL_ROOT_PASSWORD: ''
-    MYSQL_DATABASE: techslice
+    MYSQL_DATABASE: babysearch
     ports:
       - 3306:3306
