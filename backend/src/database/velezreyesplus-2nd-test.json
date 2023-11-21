@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "velezreyesplus-2nd-test",
+  "private_key_id": "a19fc8148142a15193337c1b74ab48875d3012bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDt/QWs+6GlejHG\nJjJW7RHU5ck0LvfOaJpjtQgzBr72EyX1psY7GU/7e8mIZtfclmpZ8/u4nXbstzDf\nV/d3s1aQ52GvCao1bDq3G2d5CGabJMclWEp+uWPRA0Xa6su/sRlreEokdXGcAN9D\nviwntToIT9OFYm+wN32EcV3N0HZYUszFFtiXX86EP+iagtZpB3cBHY/dAde3F+41\nS5kFWOmQdG5GoWafEN0VmmzHyX7PqFqtDAFWO0fgh9Ho5nLpSoUA0qVGvdt+XaQd\njBlmWE3TkzljDT2CY7LJTesDwlim3j87LCaivFVd93CFPhMXI+OD7sA+33xgjMOD\ncgVBEaOPAgMBAAECggEAYT4KRCjbX2yjCuaPmiIrL5Um1fo9CiuGrigJ7iObApxH\nXe0jwYExw73MVr5DBKC3WwMM/13j+oxN3WypstDmFbZdnTJzSHntMeVyLavHlSv9\nbV56rfYdeYl/URiwYSbBjr6reOM+JTLcB2eczirISB4p/S4AGf5KfMP/wrmjqal9\nppwzvsjaEG9hOoDA0E20tiu/8hwlzyyB24Qpfb7FeevIxTzi/tF0N9MyszfUIpAk\nLsKXd6vOe+s9d/hlWaessfRdt7AH6A9nUEQR5NZlvnQELpdx3Y1l6ckJSbbixCPy\nKH57jjZEN2vyhJQdp1v2Xvh5plav4DE+LtUmpzblhQKBgQD/8wou9/GTDLUVeQya\nyeCtKd4CX8GQxr+BVs5B3+XyPp8F4B+H0S2prlEP46mgTN8sDmzDVJnQlCtHA4yp\ng/Mmj9ZiwjYqux/YdbmummwPpFyIgoqx5MkXvGhkkkc8I1EVnXYInmH0prMoc4dY\nr2Hxt1FQZriCpwa5waZ4k08j0wKBgQDuCRKq52f9ufDv9Hfjdaz4nl3+vzCNRJzr\n9VLBd7qMburKn5ymclZoKq10cVfaeQ0eA9b4MoleaCtLt5zWOsQYXbFijqWWk8OQ\nUgNpAUYdZTcOxMLXSEd7i0AYVHIgEKw5gVTasbu1OULDFzMsChVvDI7Sy8OgerWF\n+4Yygs+31QKBgAabo7uqsxX00ggH5AdrBt3xosW06y5tsywHrbONsEYcz8Y7DxVW\nlTM4SOd8HTkCQxDEHpK8cGwuJx/iO5N00KZCOGq8UOGxixTvlSeo3PlaaPktRZ9q\nJLb0Kk3OaQBoeQNx2UZHsIe8dgupT+k+Pe0bqoHE5SaaYVYSZdXfF7/5AoGBAOXj\ngVHpV3emYtl8I2VcOweJ+4GSqJNm1p7UOW578YC7hqrWZ/Ygqu7DeO3ioVRwYIjC\ncJUYSa8Rr+7aj/AepVBa/HwRBD9eyhrR+lUpU8wD+p6azQoZ1l+s5uQYengZYhvP\nmmH0ETM+8Al2mIdJ3dV4LV/MR0zv9exGNR8HUxFZAoGBAMg5jyAn6dvzZrD8sIpn\n7gu+Sx3WhJA1DrFja3ocNulaHuOl1HmgcHZMgJ7WPonJ2/GyiK00159DSnZI4OJy\nez+h0NXVa/q6D/AxaMR8HqoaIjc0BYeYCg4hk2ItcU9UazqMD88QR7Pw2zhf6U19\n8maDGjsw64OHscKlcKUoS9sQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "babysearch@velezreyesplus-2nd-test.iam.gserviceaccount.com",
+  "client_id": "112727937862625229209",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/babysearch%40velezreyesplus-2nd-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

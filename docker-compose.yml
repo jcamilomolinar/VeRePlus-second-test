@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  web:
+    image: nextjs:latest
+    ports:
+      - 9000:80
+
+  backend:
+    image: my-backend:latest
+    environment:
+      - DATABASE_HOST: db
+      - DATABASE_PORT: 3306
+      - DATABASE_NAME: my_database
+      - DATABASE_USER: my_user
+      - DATABASE_PASSWORD: my_password
+
+  db:
+    image: mysql:5.7
+    environment:
+      - MYSQL_DATABASE: my_database
+      - MYSQL_USER: my_user
+      - MYSQL_PASSWORD: my_password
