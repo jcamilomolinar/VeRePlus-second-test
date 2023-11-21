@@ -1,23 +1,22 @@
 version: '3'
 
 services:
-  web:
-    image: nextjs:latest
+  frontend:
+    image: frontend
     ports:
-      - 9000:80
+      - 9000:9000
 
   backend:
-    image: my-backend:latest
+    image: backend
     environment:
       - DATABASE_HOST: db
-      - DATABASE_PORT: 3306
-      - DATABASE_NAME: my_database
-      - DATABASE_USER: my_user
-      - DATABASE_PASSWORD: my_password
+    container_name: flask
+    ports:
+      - 8000:8000
 
-  db:
-    image: mysql:5.7
-    environment:
-      - MYSQL_DATABASE: my_database
-      - MYSQL_USER: my_user
-      - MYSQL_PASSWORD: my_password
+  mysql:
+    image: mysql:latest
+    MYSQL_ROOT_PASSWORD: ''
+    MYSQL_DATABASE: techslice
+    ports:
+      - 3306:3306

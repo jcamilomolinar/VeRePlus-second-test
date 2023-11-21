@@ -5,9 +5,7 @@
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Navigating the Interface](#navigating-the-interface)
-3. [Interacting with the App](#interacting-with-the-app)
-4. [Additional Information](#additional-information)
+2. [Interacting with the App](#interacting-with-the-app)
 
 ## 1. Getting Started <a name="getting-started"></a>
 
@@ -21,6 +19,7 @@ Ensure that your device meets the following requirements:
 - Have [nodejs](https://nodejs.org/en/download) installed to install the necessary modules.
 - Have [python](https://www.python.org/downloads/) installed to install the necessary libraries.
 - Have [MySQL](https://www.apachefriends.org/es/index.html) installed to have data persistence, there are many alternatives, for example XAMPP is a good alternative since it is lightweight.
+- Have [Docker](https://www.docker.com/get-started/) installed.
 
 ### 1.2. Installation Steps
 
